@@ -1,0 +1,12 @@
+name = "tapreview-portfolio"
+main = "src/index.ts"
+compatibility_date = "2026-08-01"
+
+[[kv_namespaces]]
+binding = "CARD_DESTINATIONS"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+[[d1_databases]]
+binding = "TAP_EVENTS"
+database_name = "tapreview-portfolio"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
